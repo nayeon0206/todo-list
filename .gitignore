@@ -119,3 +119,4 @@ dist
 # IDE - Jetbrains
 .vscode/*
 /.vscode
+todo-list/
